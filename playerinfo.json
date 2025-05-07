@@ -1,7 +1,7 @@
 [
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Abedallah_Shelbayh",
+      "name": "Abedallah_Shelbayh",
       "fields": {
         "peakrank": {
           "integerValue": "181"
@@ -71,7 +71,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Adam_Walton",
+      "name": "Adam_Walton",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1747.1
@@ -153,7 +153,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Adolfo_Daniel_Vallejo",
+      "name": "Adolfo_Daniel_Vallejo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1524.2
@@ -235,7 +235,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Adria_Soriano_Barrera",
+      "name": "Adria_Soriano_Barrera",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1384.5
@@ -317,7 +317,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Adrian_Andreev",
+      "name": "Adrian_Andreev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1642.9
@@ -399,7 +399,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Adrian_Mannarino",
+      "name": "Adrian_Mannarino",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1896.3
@@ -481,7 +481,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Aidan_Mayo",
+      "name": "Aidan_Mayo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1541.1
@@ -563,7 +563,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ajeet_Rai",
+      "name": "Ajeet_Rai",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1293.8
@@ -645,7 +645,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Albert_Ramos",
+      "name": "Albert_Ramos",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1889
@@ -727,7 +727,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alejandro_Davidovich_Fokina",
+      "name": "Alejandro_Davidovich_Fokina",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1931.2
@@ -809,7 +809,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alejandro_Moro_Canas",
+      "name": "Alejandro_Moro_Canas",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1673.5
@@ -891,7 +891,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alejandro_Tabilo",
+      "name": "Alejandro_Tabilo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1895.7
@@ -973,7 +973,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alejo_Lorenzo_Lingua_Lavallen",
+      "name": "Alejo_Lorenzo_Lingua_Lavallen",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1431.1
@@ -1055,7 +1055,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Aleksandar_Kovacevic",
+      "name": "Aleksandar_Kovacevic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1758.8
@@ -1137,7 +1137,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Aleksandar_Vukic",
+      "name": "Aleksandar_Vukic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1773.3
@@ -1219,7 +1219,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Aleksandre_Bakshi",
+      "name": "Aleksandre_Bakshi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1613
@@ -1301,7 +1301,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_Barrena",
+      "name": "Alex_Barrena",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1513.6
@@ -1365,7 +1365,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_Bolt",
+      "name": "Alex_Bolt",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1688.9
@@ -1447,7 +1447,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_De_Minaur",
+      "name": "Alex_De_Minaur",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2053.1
@@ -1529,7 +1529,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_Marti_Pujolras",
+      "name": "Alex_Marti_Pujolras",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1359.7
@@ -1611,7 +1611,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_Martinez",
+      "name": "Alex_Martinez",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1501.5
@@ -1663,7 +1663,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_Michelsen",
+      "name": "Alex_Michelsen",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1904.8
@@ -1745,7 +1745,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alex_Molcan",
+      "name": "Alex_Molcan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1872.5
@@ -1815,7 +1815,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexander_Blockx",
+      "name": "Alexander_Blockx",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1743.2
@@ -1897,7 +1897,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexander_Bublik",
+      "name": "Alexander_Bublik",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1904.1
@@ -1979,7 +1979,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexander_Ritschard",
+      "name": "Alexander_Ritschard",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1695.9
@@ -2061,7 +2061,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexander_Shevchenko",
+      "name": "Alexander_Shevchenko",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1792
@@ -2143,7 +2143,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexander_Weis",
+      "name": "Alexander_Weis",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1438.4
@@ -2225,7 +2225,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexander_Zverev",
+      "name": "Alexander_Zverev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2176.5
@@ -2307,7 +2307,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexandre_Muller",
+      "name": "Alexandre_Muller",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1780.8
@@ -2389,7 +2389,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexei_Popyrin",
+      "name": "Alexei_Popyrin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1902.2
@@ -2471,7 +2471,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexey_Vatutin",
+      "name": "Alexey_Vatutin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1637.3
@@ -2553,7 +2553,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexey_Zakharov",
+      "name": "Alexey_Zakharov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1479.8
@@ -2635,7 +2635,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexis_Galarneau",
+      "name": "Alexis_Galarneau",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1631.5
@@ -2717,7 +2717,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alexis_Gautier",
+      "name": "Alexis_Gautier",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1509.5
@@ -2787,7 +2787,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alfredo_Perez",
+      "name": "Alfredo_Perez",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1425.5
@@ -2869,7 +2869,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alibek_Kachmazov",
+      "name": "Alibek_Kachmazov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1637.6
@@ -2951,7 +2951,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Alvaro_Guillen_Meza",
+      "name": "Alvaro_Guillen_Meza",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1545.7
@@ -3033,7 +3033,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andre_Ilagan",
+      "name": "Andre_Ilagan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1472.7
@@ -3115,7 +3115,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrea_Collarini",
+      "name": "Andrea_Collarini",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1572.5
@@ -3197,7 +3197,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrea_Pellegrino",
+      "name": "Andrea_Pellegrino",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1637.7
@@ -3279,7 +3279,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrea_Picchione",
+      "name": "Andrea_Picchione",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1366.1
@@ -3361,7 +3361,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrea_Vavassori",
+      "name": "Andrea_Vavassori",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1734.8
@@ -3443,7 +3443,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrej_Martin",
+      "name": "Andrej_Martin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1674.7
@@ -3525,7 +3525,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andres_Andrade",
+      "name": "Andres_Andrade",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1584.8
@@ -3607,7 +3607,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andres_Martin",
+      "name": "Andres_Martin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1603.6
@@ -3689,7 +3689,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrew_Paulson",
+      "name": "Andrew_Paulson",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1560.3
@@ -3759,7 +3759,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Andrey_Rublev",
+      "name": "Andrey_Rublev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2122.1
@@ -3841,7 +3841,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Antoine_Cornut_Chauvinc",
+      "name": "Antoine_Cornut_Chauvinc",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1453
@@ -3911,7 +3911,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Antoine_Escoffier",
+      "name": "Antoine_Escoffier",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1628.4
@@ -3993,7 +3993,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Antoine_Ghibaudo",
+      "name": "Antoine_Ghibaudo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1359.9
@@ -4063,7 +4063,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Arthur_Bouquier",
+      "name": "Arthur_Bouquier",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1732
@@ -4145,7 +4145,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Arthur_Cazaux",
+      "name": "Arthur_Cazaux",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1806.5
@@ -4227,7 +4227,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Arthur_Fery",
+      "name": "Arthur_Fery",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1663
@@ -4309,7 +4309,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Arthur_Fils",
+      "name": "Arthur_Fils",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1985.4
@@ -4391,7 +4391,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Arthur_Gea",
+      "name": "Arthur_Gea",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1501.7
@@ -4473,7 +4473,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Arthur_Rinderknech",
+      "name": "Arthur_Rinderknech",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1869.2
@@ -4555,7 +4555,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Aslan_Karatsev",
+      "name": "Aslan_Karatsev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1964.6
@@ -4637,7 +4637,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/August_Holmgren",
+      "name": "August_Holmgren",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1677.9
@@ -4719,7 +4719,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Aziz_Dougaz",
+      "name": "Aziz_Dougaz",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1555.3
@@ -4801,7 +4801,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Beibit_Zhukayev",
+      "name": "Beibit_Zhukayev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1640.2
@@ -4883,7 +4883,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ben_Shelton",
+      "name": "Ben_Shelton",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1975.5
@@ -4965,7 +4965,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Benjamin_Bonzi",
+      "name": "Benjamin_Bonzi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1835.8
@@ -5047,7 +5047,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Benjamin_Hassan",
+      "name": "Benjamin_Hassan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1680.2
@@ -5129,7 +5129,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Benjamin_Lock",
+      "name": "Benjamin_Lock",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1579.9
@@ -5211,7 +5211,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Benoit_Paire",
+      "name": "Benoit_Paire",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1909
@@ -5281,7 +5281,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Bernabe_Zapata_Miralles",
+      "name": "Bernabe_Zapata_Miralles",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1779.9
@@ -5363,7 +5363,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Bernard_Tomic",
+      "name": "Bernard_Tomic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1947.4
@@ -5445,7 +5445,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Billy_Harris",
+      "name": "Billy_Harris",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1711.4
@@ -5527,7 +5527,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Blake_Ellis",
+      "name": "Blake_Ellis",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1490.7
@@ -5609,7 +5609,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Borna_Coric",
+      "name": "Borna_Coric",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2011.6
@@ -5691,7 +5691,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Borna_Gojo",
+      "name": "Borna_Gojo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1800.2
@@ -5773,7 +5773,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Botic_Van_De_Zandschulp",
+      "name": "Botic_Van_De_Zandschulp",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1938
@@ -5855,7 +5855,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Brandon_Holt",
+      "name": "Brandon_Holt",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1725.5
@@ -5937,7 +5937,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Brandon_Nakashima",
+      "name": "Brandon_Nakashima",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1909.5
@@ -6019,7 +6019,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Bruno_Kuzuhara",
+      "name": "Bruno_Kuzuhara",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1335.1
@@ -6089,7 +6089,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Bu_Yunchaokete",
+      "name": "Bu_Yunchaokete",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1834.9
@@ -6159,7 +6159,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Calvin_Hemery",
+      "name": "Calvin_Hemery",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1651.1
@@ -6241,7 +6241,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Cameron_Norrie",
+      "name": "Cameron_Norrie",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2028.6
@@ -6323,7 +6323,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Camilo_Ugo_Carabelli",
+      "name": "Camilo_Ugo_Carabelli",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1762.2
@@ -6405,7 +6405,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Carlos_Alcaraz",
+      "name": "Carlos_Alcaraz",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2243.6
@@ -6487,7 +6487,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Carlos_Sanchez_Jover",
+      "name": "Carlos_Sanchez_Jover",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1440.5
@@ -6569,7 +6569,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Carlos_Taberner",
+      "name": "Carlos_Taberner",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1725
@@ -6651,7 +6651,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Casper_Ruud",
+      "name": "Casper_Ruud",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2071.9
@@ -6733,7 +6733,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Cezar_Cretu",
+      "name": "Cezar_Cretu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1526
@@ -6815,7 +6815,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Charles_Broom",
+      "name": "Charles_Broom",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1536.4
@@ -6897,7 +6897,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Chris_Rodesch",
+      "name": "Chris_Rodesch",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1593.7
@@ -6979,7 +6979,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Christian_Langmo",
+      "name": "Christian_Langmo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1411.8
@@ -7061,7 +7061,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Christoph_Negritu",
+      "name": "Christoph_Negritu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1540.2
@@ -7143,7 +7143,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Christopher_Eubanks",
+      "name": "Christopher_Eubanks",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1864.8
@@ -7225,7 +7225,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Christopher_Oconnell",
+      "name": "Christopher_Oconnell",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1814.1
@@ -7307,7 +7307,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Chun_Hsin_Tseng",
+      "name": "Chun_Hsin_Tseng",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1715.6
@@ -7389,7 +7389,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Clement_Chidekh",
+      "name": "Clement_Chidekh",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1695.5
@@ -7471,7 +7471,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Clement_Tabur",
+      "name": "Clement_Tabur",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1500.9
@@ -7553,7 +7553,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Coleman_Wong",
+      "name": "Coleman_Wong",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1666.1
@@ -7635,7 +7635,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Colton_Smith",
+      "name": "Colton_Smith",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1835.1
@@ -7717,7 +7717,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Conner_Huertas_Del_Pino",
+      "name": "Conner_Huertas_Del_Pino",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1354.2
@@ -7787,7 +7787,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Constant_Lestienne",
+      "name": "Constant_Lestienne",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1781.3
@@ -7869,7 +7869,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Corentin_Denolly",
+      "name": "Corentin_Denolly",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1455.6
@@ -7951,7 +7951,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Corentin_Moutet",
+      "name": "Corentin_Moutet",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1830.6
@@ -8033,7 +8033,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Cristian_Garin",
+      "name": "Cristian_Garin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1889.6
@@ -8115,7 +8115,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dalibor_Svrcina",
+      "name": "Dalibor_Svrcina",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1712.9
@@ -8197,7 +8197,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Damir_Dzumhur",
+      "name": "Damir_Dzumhur",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1895.8
@@ -8279,7 +8279,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dan_Added",
+      "name": "Dan_Added",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1509.3
@@ -8361,7 +8361,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dane_Sweeny",
+      "name": "Dane_Sweeny",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1568.3
@@ -8431,7 +8431,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Altmaier",
+      "name": "Daniel_Altmaier",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1789.1
@@ -8513,7 +8513,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Dutra_Da_Silva",
+      "name": "Daniel_Dutra_Da_Silva",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1519.5
@@ -8595,7 +8595,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Elahi_Galan",
+      "name": "Daniel_Elahi_Galan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1757.5
@@ -8677,7 +8677,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Evans",
+      "name": "Daniel_Evans",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1902.5
@@ -8759,7 +8759,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Masur",
+      "name": "Daniel_Masur",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1621.9
@@ -8841,7 +8841,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Merida_Aguilar",
+      "name": "Daniel_Merida_Aguilar",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1333.6
@@ -8923,7 +8923,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Michalski",
+      "name": "Daniel_Michalski",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1590.8
@@ -9005,7 +9005,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniel_Rincon",
+      "name": "Daniel_Rincon",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1613.8
@@ -9087,7 +9087,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Daniil_Medvedev",
+      "name": "Daniil_Medvedev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2201.2
@@ -9169,7 +9169,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/David_Goffin",
+      "name": "David_Goffin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2048.7
@@ -9251,7 +9251,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/David_Jorda_Sanchis",
+      "name": "David_Jorda_Sanchis",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1531.3
@@ -9321,7 +9321,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Denis_Kudla",
+      "name": "Denis_Kudla",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1784.4
@@ -9391,7 +9391,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Denis_Shapovalov",
+      "name": "Denis_Shapovalov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1983.2
@@ -9473,7 +9473,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Denis_Yevseyev",
+      "name": "Denis_Yevseyev",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1565.7
@@ -9555,7 +9555,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dennis_Novak",
+      "name": "Dennis_Novak",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1758.9
@@ -9637,7 +9637,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Diego_Dedura_Palomero",
+      "name": "Diego_Dedura_Palomero",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1330.8
@@ -9719,7 +9719,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Diego_Schwartzman",
+      "name": "Diego_Schwartzman",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1979.6
@@ -9801,7 +9801,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dimitar_Kuzmanov",
+      "name": "Dimitar_Kuzmanov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1640.1
@@ -9883,7 +9883,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dino_Prizmic",
+      "name": "Dino_Prizmic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1719
@@ -9965,7 +9965,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dmitry_Popko",
+      "name": "Dmitry_Popko",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1631.7
@@ -10047,7 +10047,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dominic_Stricker",
+      "name": "Dominic_Stricker",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1798.6
@@ -10129,7 +10129,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dominik_Koepfer",
+      "name": "Dominik_Koepfer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1822.7
@@ -10211,7 +10211,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Duje_Ajdukovic",
+      "name": "Duje_Ajdukovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1687.6
@@ -10293,7 +10293,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Dusan_Lajovic",
+      "name": "Dusan_Lajovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1854.6
@@ -10375,7 +10375,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Edas_Butvilas",
+      "name": "Edas_Butvilas",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1672
@@ -10457,7 +10457,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Egor_Gerasimov",
+      "name": "Egor_Gerasimov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1802.1
@@ -10539,7 +10539,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Eliakim_Coulibaly",
+      "name": "Eliakim_Coulibaly",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1484.7
@@ -10621,7 +10621,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Elias_Ymer",
+      "name": "Elias_Ymer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1751.8
@@ -10703,7 +10703,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Eliot_Spizzirri",
+      "name": "Eliot_Spizzirri",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1714.6
@@ -10785,7 +10785,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Elmer_Moller",
+      "name": "Elmer_Moller",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1741.1
@@ -10867,7 +10867,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Emil_Ruusuvuori",
+      "name": "Emil_Ruusuvuori",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1893.2
@@ -10949,7 +10949,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Emilio_Nava",
+      "name": "Emilio_Nava",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1713.5
@@ -11031,7 +11031,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Enrico_Dalla_Valle",
+      "name": "Enrico_Dalla_Valle",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1543.6
@@ -11113,7 +11113,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Enzo_Couacaud",
+      "name": "Enzo_Couacaud",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1647.1
@@ -11195,7 +11195,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ergi_Kirkin",
+      "name": "Ergi_Kirkin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1516.7
@@ -11277,7 +11277,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ernesto_Escobedo",
+      "name": "Ernesto_Escobedo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1762.7
@@ -11359,7 +11359,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ethan_Quinn",
+      "name": "Ethan_Quinn",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1802.5
@@ -11441,7 +11441,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Evgeny_Karlovskiy",
+      "name": "Evgeny_Karlovskiy",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1560.3
@@ -11523,7 +11523,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Fabian_Marozsan",
+      "name": "Fabian_Marozsan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1867.2
@@ -11605,7 +11605,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Fabio_Fognini",
+      "name": "Fabio_Fognini",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2003.8
@@ -11687,7 +11687,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Facundo_Bagnis",
+      "name": "Facundo_Bagnis",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1737
@@ -11757,7 +11757,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Facundo_Diaz_Acosta",
+      "name": "Facundo_Diaz_Acosta",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1791.9
@@ -11839,7 +11839,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Facundo_Mena",
+      "name": "Facundo_Mena",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1616.9
@@ -11921,7 +11921,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Fajing_Sun",
+      "name": "Fajing_Sun",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1333.1
@@ -12003,7 +12003,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Federico_Agustin_Gomez",
+      "name": "Federico_Agustin_Gomez",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1668.6
@@ -12085,7 +12085,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Federico_Arnaboldi",
+      "name": "Federico_Arnaboldi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1623
@@ -12167,7 +12167,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Federico_Cina",
+      "name": "Federico_Cina",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1528
@@ -12249,7 +12249,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Federico_Coria",
+      "name": "Federico_Coria",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1754.4
@@ -12331,7 +12331,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Felipe_Meligeni_Alves",
+      "name": "Felipe_Meligeni_Alves",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1695.3
@@ -12413,7 +12413,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Felix_Auger_Aliassime",
+      "name": "Felix_Auger_Aliassime",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2062.7
@@ -12495,7 +12495,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Felix_Gill",
+      "name": "Felix_Gill",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1476.8
@@ -12565,7 +12565,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Filip_Cristian_Jianu",
+      "name": "Filip_Cristian_Jianu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1578.5
@@ -12647,7 +12647,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Filip_Misolic",
+      "name": "Filip_Misolic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1720.3
@@ -12729,7 +12729,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Flavio_Cobolli",
+      "name": "Flavio_Cobolli",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1889.7
@@ -12811,7 +12811,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Florent_Bax",
+      "name": "Florent_Bax",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1449.1
@@ -12875,7 +12875,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Frances_Tiafoe",
+      "name": "Frances_Tiafoe",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1974
@@ -12957,7 +12957,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Francesco_Maestrelli",
+      "name": "Francesco_Maestrelli",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1711.4
@@ -13039,7 +13039,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Francesco_Passaro",
+      "name": "Francesco_Passaro",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1779
@@ -13121,7 +13121,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Francisco_Cerundolo",
+      "name": "Francisco_Cerundolo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1961.6
@@ -13203,7 +13203,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Francisco_Comesana",
+      "name": "Francisco_Comesana",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1733.8
@@ -13285,7 +13285,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Franco_Agamenone",
+      "name": "Franco_Agamenone",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1707.6
@@ -13367,7 +13367,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Franco_Roncadelli",
+      "name": "Franco_Roncadelli",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1395.8
@@ -13449,7 +13449,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Frederico_Ferreira_Silva",
+      "name": "Frederico_Ferreira_Silva",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1642.4
@@ -13531,7 +13531,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gabi_Adrian_Boitan",
+      "name": "Gabi_Adrian_Boitan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1488.6
@@ -13613,7 +13613,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gabriel_Debru",
+      "name": "Gabriel_Debru",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1596.1
@@ -13695,7 +13695,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gabriel_Diallo",
+      "name": "Gabriel_Diallo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1812.3
@@ -13777,7 +13777,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gael_Monfils",
+      "name": "Gael_Monfils",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2087.1
@@ -13859,7 +13859,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Garrett_Johns",
+      "name": "Garrett_Johns",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1408
@@ -13941,7 +13941,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gastao_Elias",
+      "name": "Gastao_Elias",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1737.5
@@ -14023,7 +14023,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gauthier_Onclin",
+      "name": "Gauthier_Onclin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1591.3
@@ -14105,7 +14105,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Genaro_Alberto_Olivieri",
+      "name": "Genaro_Alberto_Olivieri",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1585.6
@@ -14187,7 +14187,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Geoffrey_Blancaneaux",
+      "name": "Geoffrey_Blancaneaux",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1591.5
@@ -14269,7 +14269,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gerard_Campana_Lee",
+      "name": "Gerard_Campana_Lee",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1510.2
@@ -14351,7 +14351,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gianluca_Mager",
+      "name": "Gianluca_Mager",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1733.2
@@ -14433,7 +14433,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gijs_Brouwer",
+      "name": "Gijs_Brouwer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1656.6
@@ -14515,7 +14515,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Giles_Hussey",
+      "name": "Giles_Hussey",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1422.5
@@ -14597,7 +14597,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Giovanni_Fonio",
+      "name": "Giovanni_Fonio",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1566.9
@@ -14679,7 +14679,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Giovanni_Mpetshi_Perricard",
+      "name": "Giovanni_Mpetshi_Perricard",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1862.8
@@ -14761,7 +14761,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Giulio_Zeppieri",
+      "name": "Giulio_Zeppieri",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1691.2
@@ -14843,7 +14843,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Goncalo_Oliveira",
+      "name": "Goncalo_Oliveira",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1441.2
@@ -14913,7 +14913,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gonzalo_Bueno",
+      "name": "Gonzalo_Bueno",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1518.7
@@ -14995,7 +14995,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gonzalo_Villanueva",
+      "name": "Gonzalo_Villanueva",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1454.7
@@ -15077,7 +15077,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Govind_Nanda",
+      "name": "Govind_Nanda",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1501
@@ -15159,7 +15159,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gregoire_Barrere",
+      "name": "Gregoire_Barrere",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1804.5
@@ -15241,7 +15241,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Grigor_Dimitrov",
+      "name": "Grigor_Dimitrov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2111.5
@@ -15323,7 +15323,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Guido_Ivan_Justo",
+      "name": "Guido_Ivan_Justo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1319.7
@@ -15405,7 +15405,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Gustavo_Heide",
+      "name": "Gustavo_Heide",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1661.1
@@ -15487,7 +15487,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Guy_Den_Ouden",
+      "name": "Guy_Den_Ouden",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1535.9
@@ -15569,7 +15569,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hady_Habib",
+      "name": "Hady_Habib",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1615.8
@@ -15651,7 +15651,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hamad_Medjedovic",
+      "name": "Hamad_Medjedovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1844.3
@@ -15733,7 +15733,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Harold_Mayot",
+      "name": "Harold_Mayot",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1701.9
@@ -15815,7 +15815,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hazem_Naw",
+      "name": "Hazem_Naw",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1633.7
@@ -15885,7 +15885,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Henri_Squire",
+      "name": "Henri_Squire",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1670
@@ -15967,7 +15967,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Henrique_Rocha",
+      "name": "Henrique_Rocha",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1637.6
@@ -16049,7 +16049,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Henry_Searle",
+      "name": "Henry_Searle",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1448.8
@@ -16131,7 +16131,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hernan_Casanova",
+      "name": "Hernan_Casanova",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1474
@@ -16201,7 +16201,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hiroki_Moriya",
+      "name": "Hiroki_Moriya",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1584
@@ -16283,7 +16283,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Holger_Rune",
+      "name": "Holger_Rune",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2082
@@ -16365,7 +16365,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hubert_Hurkacz",
+      "name": "Hubert_Hurkacz",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2022.5
@@ -16447,7 +16447,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hugo_Dellien",
+      "name": "Hugo_Dellien",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1779.8
@@ -16529,7 +16529,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hugo_Gaston",
+      "name": "Hugo_Gaston",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1795.1
@@ -16611,7 +16611,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hugo_Grenier",
+      "name": "Hugo_Grenier",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1734
@@ -16693,7 +16693,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Hynek_Barton",
+      "name": "Hynek_Barton",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1498.9
@@ -16775,7 +16775,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ignacio_Buse",
+      "name": "Ignacio_Buse",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1632.4
@@ -16857,7 +16857,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ilia_Simakin",
+      "name": "Ilia_Simakin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1587.6
@@ -16939,7 +16939,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Illya_Marchenko",
+      "name": "Illya_Marchenko",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1792.9
@@ -17009,7 +17009,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Inaki_Montes_De_La_Torre",
+      "name": "Inaki_Montes_De_La_Torre",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1529
@@ -17091,7 +17091,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ivan_Gakhov",
+      "name": "Ivan_Gakhov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1659.6
@@ -17173,7 +17173,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/J_J_Wolf",
+      "name": "J_J_Wolf",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1847.7
@@ -17255,7 +17255,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jack_Draper",
+      "name": "Jack_Draper",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2103.8
@@ -17337,7 +17337,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jack_Pinnington_Jones",
+      "name": "Jack_Pinnington_Jones",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1521.7
@@ -17419,7 +17419,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jacob_Fearnley",
+      "name": "Jacob_Fearnley",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1910
@@ -17501,7 +17501,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jacopo_Berrettini",
+      "name": "Jacopo_Berrettini",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1592.3
@@ -17583,7 +17583,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jaime_Faria",
+      "name": "Jaime_Faria",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1692.5
@@ -17665,7 +17665,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jakub_Mensik",
+      "name": "Jakub_Mensik",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1968.7
@@ -17747,7 +17747,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jakub_Nicod",
+      "name": "Jakub_Nicod",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1506.7
@@ -17817,7 +17817,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jakub_Paul",
+      "name": "Jakub_Paul",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1440.9
@@ -17899,7 +17899,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/James_Duckworth",
+      "name": "James_Duckworth",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1785.9
@@ -17981,7 +17981,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/James_Mccabe",
+      "name": "James_Mccabe",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1584.1
@@ -18063,7 +18063,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/James_Trotter",
+      "name": "James_Trotter",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1658.1
@@ -18145,7 +18145,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jan_Choinski",
+      "name": "Jan_Choinski",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1632
@@ -18227,7 +18227,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jan_Lennard_Struff",
+      "name": "Jan_Lennard_Struff",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1935.1
@@ -18309,7 +18309,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jannik_Sinner",
+      "name": "Jannik_Sinner",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2329.6
@@ -18391,7 +18391,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jason_Kubler",
+      "name": "Jason_Kubler",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1790
@@ -18473,7 +18473,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jaume_Munar",
+      "name": "Jaume_Munar",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1819
@@ -18555,7 +18555,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Javier_Barranco_Cosano",
+      "name": "Javier_Barranco_Cosano",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1581
@@ -18637,7 +18637,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jay_Clarke",
+      "name": "Jay_Clarke",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1617.4
@@ -18719,7 +18719,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jelle_Sels",
+      "name": "Jelle_Sels",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1640.8
@@ -18801,7 +18801,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jenson_Brooksby",
+      "name": "Jenson_Brooksby",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2005.3
@@ -18883,7 +18883,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jerome_Kym",
+      "name": "Jerome_Kym",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1738
@@ -18965,7 +18965,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jesper_De_Jong",
+      "name": "Jesper_De_Jong",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1721.9
@@ -19047,7 +19047,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jie_Cui",
+      "name": "Jie_Cui",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1470.5
@@ -19129,7 +19129,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jiri_Lehecka",
+      "name": "Jiri_Lehecka",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1966.5
@@ -19211,7 +19211,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jiri_Vesely",
+      "name": "Jiri_Vesely",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1891.6
@@ -19293,7 +19293,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Joao_Fonseca",
+      "name": "Joao_Fonseca",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1992.5
@@ -19375,7 +19375,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Joao_Lucas_Reis_Da_Silva",
+      "name": "Joao_Lucas_Reis_Da_Silva",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1516.6
@@ -19457,7 +19457,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Joel_Schwaerzler",
+      "name": "Joel_Schwaerzler",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1621.9
@@ -19539,7 +19539,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Johannus_Monday",
+      "name": "Johannus_Monday",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1551.9
@@ -19621,7 +19621,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jonas_Forejtek",
+      "name": "Jonas_Forejtek",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1614.5
@@ -19691,7 +19691,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jordan_Thompson",
+      "name": "Jordan_Thompson",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1891.2
@@ -19773,7 +19773,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Joris_De_Loore",
+      "name": "Joris_De_Loore",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1665.1
@@ -19855,7 +19855,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jose_Pereira",
+      "name": "Jose_Pereira",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1354.7
@@ -19925,7 +19925,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jozef_Kovalik",
+      "name": "Jozef_Kovalik",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1721.8
@@ -20007,7 +20007,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juan_Alejandro_Hernandez_Serrano",
+      "name": "Juan_Alejandro_Hernandez_Serrano",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1291.9
@@ -20077,7 +20077,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juan_Bautista_Torres",
+      "name": "Juan_Bautista_Torres",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1586.6
@@ -20159,7 +20159,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juan_Carlos_Prado_Angelo",
+      "name": "Juan_Carlos_Prado_Angelo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1464.8
@@ -20241,7 +20241,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juan_Manuel_Cerundolo",
+      "name": "Juan_Manuel_Cerundolo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1774.8
@@ -20323,7 +20323,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juan_Pablo_Ficovich",
+      "name": "Juan_Pablo_Ficovich",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1597.4
@@ -20405,7 +20405,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juan_Pablo_Varillas",
+      "name": "Juan_Pablo_Varillas",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1730
@@ -20487,7 +20487,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jules_Marie",
+      "name": "Jules_Marie",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1467.6
@@ -20557,7 +20557,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Juncheng_Shang",
+      "name": "Juncheng_Shang",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1895.7
@@ -20639,7 +20639,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Jurij_Rodionov",
+      "name": "Jurij_Rodionov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1702.1
@@ -20721,7 +20721,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Justin_Engel",
+      "name": "Justin_Engel",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1451.7
@@ -20803,7 +20803,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kaichi_Uchida",
+      "name": "Kaichi_Uchida",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1571.8
@@ -20885,7 +20885,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kamil_Majchrzak",
+      "name": "Kamil_Majchrzak",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1810.1
@@ -20967,7 +20967,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Karan_Singh",
+      "name": "Karan_Singh",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1339.8
@@ -21019,7 +21019,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Karen_Khachanov",
+      "name": "Karen_Khachanov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2029.5
@@ -21101,7 +21101,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Karue_Sell",
+      "name": "Karue_Sell",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1529.3
@@ -21183,7 +21183,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kasidit_Samrej",
+      "name": "Kasidit_Samrej",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1424.3
@@ -21265,7 +21265,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Keegan_Smith",
+      "name": "Keegan_Smith",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1403.9
@@ -21335,7 +21335,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kei_Nishikori",
+      "name": "Kei_Nishikori",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2194.2
@@ -21417,7 +21417,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Khumoun_Sultanov",
+      "name": "Khumoun_Sultanov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1553.9
@@ -21487,7 +21487,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kimmer_Coppejans",
+      "name": "Kimmer_Coppejans",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1697
@@ -21569,7 +21569,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kiranpal_Pannu",
+      "name": "Kiranpal_Pannu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1371.7
@@ -21639,7 +21639,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kris_Van_Wyk",
+      "name": "Kris_Van_Wyk",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1448.8
@@ -21721,7 +21721,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kyle_Edmund",
+      "name": "Kyle_Edmund",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1952.7
@@ -21791,7 +21791,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Kyrian_Jacquet",
+      "name": "Kyrian_Jacquet",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1735.1
@@ -21873,7 +21873,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Laslo_Djere",
+      "name": "Laslo_Djere",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1854.6
@@ -21955,7 +21955,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Laurent_Lokoli",
+      "name": "Laurent_Lokoli",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1608.2
@@ -22037,7 +22037,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lautaro_Midon",
+      "name": "Lautaro_Midon",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1397.4
@@ -22119,7 +22119,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Leandro_Riedi",
+      "name": "Leandro_Riedi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1823.3
@@ -22201,7 +22201,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Learner_Tien",
+      "name": "Learner_Tien",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1888.2
@@ -22283,7 +22283,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Leonardo_Aboian",
+      "name": "Leonardo_Aboian",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1275.4
@@ -22353,7 +22353,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Li_Tu",
+      "name": "Li_Tu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1633.5
@@ -22435,7 +22435,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Liam_Broady",
+      "name": "Liam_Broady",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1757.4
@@ -22505,7 +22505,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Liam_Draxl",
+      "name": "Liam_Draxl",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1653
@@ -22587,7 +22587,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lloyd_Harris",
+      "name": "Lloyd_Harris",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1896
@@ -22669,7 +22669,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lorenzo_Giustino",
+      "name": "Lorenzo_Giustino",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1643.8
@@ -22751,7 +22751,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lorenzo_Musetti",
+      "name": "Lorenzo_Musetti",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2007.8
@@ -22833,7 +22833,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lorenzo_Sonego",
+      "name": "Lorenzo_Sonego",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1895.3
@@ -22915,7 +22915,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Luca_Nardi",
+      "name": "Luca_Nardi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1724.6
@@ -22997,7 +22997,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Luca_Van_Assche",
+      "name": "Luca_Van_Assche",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1801.5
@@ -23079,7 +23079,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lucas_Pouille",
+      "name": "Lucas_Pouille",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1987.7
@@ -23161,7 +23161,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lucas_Poullain",
+      "name": "Lucas_Poullain",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1590.8
@@ -23243,7 +23243,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Luciano_Darderi",
+      "name": "Luciano_Darderi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1857
@@ -23325,7 +23325,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Luciano_Emanuel_Ambrogi",
+      "name": "Luciano_Emanuel_Ambrogi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1410.3
@@ -23407,7 +23407,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Luka_Mikrut",
+      "name": "Luka_Mikrut",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1544.9
@@ -23489,7 +23489,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Luka_Pavlovic",
+      "name": "Luka_Pavlovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1621.4
@@ -23571,7 +23571,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lukas_Klein",
+      "name": "Lukas_Klein",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1777.5
@@ -23653,7 +23653,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lukas_Neumayer",
+      "name": "Lukas_Neumayer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1594.5
@@ -23735,7 +23735,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Lukas_Pokorny",
+      "name": "Lukas_Pokorny",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1383.5
@@ -23817,7 +23817,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mackenzie_Mcdonald",
+      "name": "Mackenzie_Mcdonald",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1847.6
@@ -23899,7 +23899,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maks_Kasnikowski",
+      "name": "Maks_Kasnikowski",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1652.1
@@ -23981,7 +23981,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Manuel_Guinard",
+      "name": "Manuel_Guinard",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1664.3
@@ -24063,7 +24063,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marat_Sharipov",
+      "name": "Marat_Sharipov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1613.9
@@ -24145,7 +24145,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marc_Andrea_Huesler",
+      "name": "Marc_Andrea_Huesler",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1817
@@ -24227,7 +24227,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marc_Polmans",
+      "name": "Marc_Polmans",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1618.1
@@ -24309,7 +24309,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marco_Cecchinato",
+      "name": "Marco_Cecchinato",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1838.6
@@ -24391,7 +24391,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marco_Trungelliti",
+      "name": "Marco_Trungelliti",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1693.1
@@ -24473,7 +24473,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marcos_Giron",
+      "name": "Marcos_Giron",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1874.1
@@ -24555,7 +24555,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marek_Gengel",
+      "name": "Marek_Gengel",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1505.8
@@ -24637,7 +24637,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mariano_Kestelboim",
+      "name": "Mariano_Kestelboim",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1290
@@ -24719,7 +24719,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mariano_Navone",
+      "name": "Mariano_Navone",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1875.9
@@ -24801,7 +24801,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marin_Cilic",
+      "name": "Marin_Cilic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2100.4
@@ -24883,7 +24883,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mark_Lajal",
+      "name": "Mark_Lajal",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1668
@@ -24965,7 +24965,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marko_Topo",
+      "name": "Marko_Topo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1663.9
@@ -25047,7 +25047,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Martin_Damm",
+      "name": "Martin_Damm",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1767.9
@@ -25117,7 +25117,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Martin_Klizan",
+      "name": "Martin_Klizan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1897.2
@@ -25199,7 +25199,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Martin_Krumich",
+      "name": "Martin_Krumich",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1347.7
@@ -25281,7 +25281,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Martin_Landaluce",
+      "name": "Martin_Landaluce",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1741.8
@@ -25363,7 +25363,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marton_Fucsovics",
+      "name": "Marton_Fucsovics",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1924.2
@@ -25445,7 +25445,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Marvin_Moeller",
+      "name": "Marvin_Moeller",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1567.7
@@ -25527,7 +25527,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Masamichi_Imamura",
+      "name": "Masamichi_Imamura",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1394.5
@@ -25609,7 +25609,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matej_Dodig",
+      "name": "Matej_Dodig",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1601.7
@@ -25691,7 +25691,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mateus_Alves",
+      "name": "Mateus_Alves",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1422.1
@@ -25773,7 +25773,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matheus_Pucinelli_De_Almeida",
+      "name": "Matheus_Pucinelli_De_Almeida",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1650
@@ -25855,7 +25855,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mathias_Bourgue",
+      "name": "Mathias_Bourgue",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1674.2
@@ -25925,7 +25925,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mathys_Erhard",
+      "name": "Mathys_Erhard",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1428.9
@@ -26007,7 +26007,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matias_Soto",
+      "name": "Matias_Soto",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1461.2
@@ -26089,7 +26089,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mats_Rosenkranz",
+      "name": "Mats_Rosenkranz",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1477.6
@@ -26171,7 +26171,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matteo_Arnaldi",
+      "name": "Matteo_Arnaldi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1902.9
@@ -26253,7 +26253,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matteo_Berrettini",
+      "name": "Matteo_Berrettini",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2065.7
@@ -26335,7 +26335,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matteo_Gigante",
+      "name": "Matteo_Gigante",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1644.9
@@ -26417,7 +26417,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matteo_Martineau",
+      "name": "Matteo_Martineau",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1624.5
@@ -26499,7 +26499,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Matthew_Dellavedova",
+      "name": "Matthew_Dellavedova",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1201.5
@@ -26581,7 +26581,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mattia_Bellucci",
+      "name": "Mattia_Bellucci",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1814.3
@@ -26663,7 +26663,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Max_Hans_Rehberg",
+      "name": "Max_Hans_Rehberg",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1575
@@ -26745,7 +26745,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Max_Houkes",
+      "name": "Max_Houkes",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1481.3
@@ -26827,7 +26827,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Max_Purcell",
+      "name": "Max_Purcell",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1789.1
@@ -26909,7 +26909,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Max_Wiskandt",
+      "name": "Max_Wiskandt",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1454
@@ -26991,7 +26991,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maxime_Chazal",
+      "name": "Maxime_Chazal",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1382.8
@@ -27073,7 +27073,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maxime_Cressy",
+      "name": "Maxime_Cressy",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1836.1
@@ -27155,7 +27155,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maxime_Janvier",
+      "name": "Maxime_Janvier",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1601.5
@@ -27237,7 +27237,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maximilian_Marterer",
+      "name": "Maximilian_Marterer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1815.1
@@ -27319,7 +27319,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maximilian_Neuchrist",
+      "name": "Maximilian_Neuchrist",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1549.9
@@ -27401,7 +27401,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Maximus_Jones",
+      "name": "Maximus_Jones",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1524.4
@@ -27483,7 +27483,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Micah_Braswell",
+      "name": "Micah_Braswell",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1418.6
@@ -27565,7 +27565,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Michael_Geerts",
+      "name": "Michael_Geerts",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1540.6
@@ -27647,7 +27647,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Michael_Mmoh",
+      "name": "Michael_Mmoh",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1762.3
@@ -27729,7 +27729,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Michael_Vrbensky",
+      "name": "Michael_Vrbensky",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1576.5
@@ -27811,7 +27811,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Miguel_Damas",
+      "name": "Miguel_Damas",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1310.3
@@ -27893,7 +27893,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mika_Brunold",
+      "name": "Mika_Brunold",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1492.5
@@ -27975,7 +27975,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mikhail_Kukushkin",
+      "name": "Mikhail_Kukushkin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1864.2
@@ -28057,7 +28057,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mili_Poljicak",
+      "name": "Mili_Poljicak",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1427.9
@@ -28139,7 +28139,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Miomir_Kecmanovic",
+      "name": "Miomir_Kecmanovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1900.6
@@ -28221,7 +28221,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mitchell_Krueger",
+      "name": "Mitchell_Krueger",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1653.6
@@ -28303,7 +28303,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Moerani_Bouzige",
+      "name": "Moerani_Bouzige",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1416.7
@@ -28385,7 +28385,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Moez_Echargui",
+      "name": "Moez_Echargui",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1478.4
@@ -28467,7 +28467,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Mohamed_Safwat",
+      "name": "Mohamed_Safwat",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1640.1
@@ -28537,7 +28537,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Murkel_Alejandro_Dellien_Velasco",
+      "name": "Murkel_Alejandro_Dellien_Velasco",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1602.5
@@ -28607,7 +28607,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Murphy_Cassone",
+      "name": "Murphy_Cassone",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1684.9
@@ -28689,7 +28689,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Naoki_Nakagawa",
+      "name": "Naoki_Nakagawa",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1327.7
@@ -28771,7 +28771,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Neil_Oberleitner",
+      "name": "Neil_Oberleitner",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1378
@@ -28853,7 +28853,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nerman_Fatic",
+      "name": "Nerman_Fatic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1584.4
@@ -28935,7 +28935,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nick_Hardt",
+      "name": "Nick_Hardt",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1619.6
@@ -29017,7 +29017,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolai_Budkov_Kjaer",
+      "name": "Nicolai_Budkov_Kjaer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1625.3
@@ -29099,7 +29099,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolas_Alvarez_Varona",
+      "name": "Nicolas_Alvarez_Varona",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1526.2
@@ -29181,7 +29181,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolas_Jarry",
+      "name": "Nicolas_Jarry",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1903
@@ -29263,7 +29263,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolas_Kicker",
+      "name": "Nicolas_Kicker",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1706.2
@@ -29345,7 +29345,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolas_Mejia",
+      "name": "Nicolas_Mejia",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1536.3
@@ -29427,7 +29427,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolas_Moreno_De_Alboran",
+      "name": "Nicolas_Moreno_De_Alboran",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1687.7
@@ -29509,7 +29509,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nicolas_Zanellato",
+      "name": "Nicolas_Zanellato",
       "fields": {
         "atp_id": {
           "stringValue": "Z0BY"
@@ -29537,7 +29537,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nikolas_Sanchez_Izquierdo",
+      "name": "Nikolas_Sanchez_Izquierdo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1517.8
@@ -29619,7 +29619,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nikoloz_Basilashvili",
+      "name": "Nikoloz_Basilashvili",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1889.8
@@ -29701,7 +29701,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nishesh_Basavareddy",
+      "name": "Nishesh_Basavareddy",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1856.6
@@ -29783,7 +29783,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Norbert_Gombos",
+      "name": "Norbert_Gombos",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1753.2
@@ -29865,7 +29865,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Novak_Djokovic",
+      "name": "Novak_Djokovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2463.2
@@ -29947,7 +29947,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Nuno_Borges",
+      "name": "Nuno_Borges",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1843.6
@@ -30029,7 +30029,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Oleg_Prihodko",
+      "name": "Oleg_Prihodko",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1514
@@ -30111,7 +30111,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Oleksandr_Ovcharenko",
+      "name": "Oleksandr_Ovcharenko",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1385.7
@@ -30193,7 +30193,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Oliver_Crawford",
+      "name": "Oliver_Crawford",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1580.7
@@ -30275,7 +30275,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Omar_Jasika",
+      "name": "Omar_Jasika",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1669.1
@@ -30357,7 +30357,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Oriol_Roca_Batalla",
+      "name": "Oriol_Roca_Batalla",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1554.6
@@ -30439,7 +30439,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Orlando_Luz",
+      "name": "Orlando_Luz",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1519.9
@@ -30509,7 +30509,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Otto_Virtanen",
+      "name": "Otto_Virtanen",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1768.8
@@ -30591,7 +30591,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pablo_Carreno_Busta",
+      "name": "Pablo_Carreno_Busta",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2005.1
@@ -30673,7 +30673,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pablo_Llamas_Ruiz",
+      "name": "Pablo_Llamas_Ruiz",
       "fields": {
         "atp_id": {
           "stringValue": "L0CX"
@@ -30701,7 +30701,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Patrick_Kypson",
+      "name": "Patrick_Kypson",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1709.4
@@ -30783,7 +30783,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Patrick_Maloney",
+      "name": "Patrick_Maloney",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1439.4
@@ -30865,7 +30865,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Patrick_Zahraj",
+      "name": "Patrick_Zahraj",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1596.7
@@ -30947,7 +30947,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Paul_Jubb",
+      "name": "Paul_Jubb",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1632.1
@@ -31029,7 +31029,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pavel_Kotov",
+      "name": "Pavel_Kotov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1797.1
@@ -31111,7 +31111,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pedro_Boscardin_Dias",
+      "name": "Pedro_Boscardin_Dias",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1424.7
@@ -31193,7 +31193,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pedro_Cachin",
+      "name": "Pedro_Cachin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1767.7
@@ -31275,7 +31275,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pedro_Martinez",
+      "name": "Pedro_Martinez",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1844.3
@@ -31357,7 +31357,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pedro_Sakamoto",
+      "name": "Pedro_Sakamoto",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1495.6
@@ -31439,7 +31439,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Petr_Bar_Biryukov",
+      "name": "Petr_Bar_Biryukov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1329.9
@@ -31521,7 +31521,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Petr_Nesterov",
+      "name": "Petr_Nesterov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1421.9
@@ -31603,7 +31603,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Philip_Henning",
+      "name": "Philip_Henning",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1559.8
@@ -31685,7 +31685,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Philip_Sekulic",
+      "name": "Philip_Sekulic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1533.1
@@ -31767,7 +31767,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pierre_Hugues_Herbert",
+      "name": "Pierre_Hugues_Herbert",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1867.9
@@ -31849,7 +31849,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Pol_Martin_Tiffon",
+      "name": "Pol_Martin_Tiffon",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1512.6
@@ -31931,7 +31931,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Quentin_Halys",
+      "name": "Quentin_Halys",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1811.4
@@ -32013,7 +32013,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Radu_Albot",
+      "name": "Radu_Albot",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1823.4
@@ -32095,7 +32095,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rafael_Nadal",
+      "name": "Rafael_Nadal",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2361.9
@@ -32165,7 +32165,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ramkumar_Ramanathan",
+      "name": "Ramkumar_Ramanathan",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1622
@@ -32235,7 +32235,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Raphael_Collignon",
+      "name": "Raphael_Collignon",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1777.6
@@ -32317,7 +32317,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Raul_Brancaccio",
+      "name": "Raul_Brancaccio",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1644.9
@@ -32399,7 +32399,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rei_Sakamoto",
+      "name": "Rei_Sakamoto",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1612.5
@@ -32481,7 +32481,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Reilly_Opelka",
+      "name": "Reilly_Opelka",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1927.5
@@ -32563,7 +32563,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Remy_Bertola",
+      "name": "Remy_Bertola",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1461.8
@@ -32645,7 +32645,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Renzo_Olivo",
+      "name": "Renzo_Olivo",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1643.4
@@ -32727,7 +32727,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ricardas_Berankis",
+      "name": "Ricardas_Berankis",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1842.4
@@ -32809,7 +32809,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Riccardo_Bonadio",
+      "name": "Riccardo_Bonadio",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1587.2
@@ -32879,7 +32879,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Richard_Gasquet",
+      "name": "Richard_Gasquet",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2059.5
@@ -32961,7 +32961,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rigele_Te",
+      "name": "Rigele_Te",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1331.9
@@ -33043,7 +33043,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rinky_Hijikata",
+      "name": "Rinky_Hijikata",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1744.9
@@ -33125,7 +33125,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rio_Noguchi",
+      "name": "Rio_Noguchi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1516
@@ -33207,7 +33207,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Robert_Strombachs",
+      "name": "Robert_Strombachs",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1448.5
@@ -33289,7 +33289,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Roberto_Bautista_Agut",
+      "name": "Roberto_Bautista_Agut",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2033.8
@@ -33371,7 +33371,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Roberto_Carballes_Baena",
+      "name": "Roberto_Carballes_Baena",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1788.1
@@ -33453,7 +33453,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Roberto_Cid",
+      "name": "Roberto_Cid",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1621.4
@@ -33535,7 +33535,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Robin_Bertrand",
+      "name": "Robin_Bertrand",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1540.9
@@ -33617,7 +33617,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rodrigo_Pacheco_Mendez",
+      "name": "Rodrigo_Pacheco_Mendez",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1461.5
@@ -33699,7 +33699,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Roman_Andres_Burruchaga",
+      "name": "Roman_Andres_Burruchaga",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1669.3
@@ -33781,7 +33781,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Roman_Safiullin",
+      "name": "Roman_Safiullin",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1911.3
@@ -33863,7 +33863,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Rudolf_Molleker",
+      "name": "Rudolf_Molleker",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1712.9
@@ -33945,7 +33945,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ryan_Nijboer",
+      "name": "Ryan_Nijboer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1353.7
@@ -34027,7 +34027,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ryan_Peniston",
+      "name": "Ryan_Peniston",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1723.2
@@ -34109,7 +34109,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ryan_Seggerman",
+      "name": "Ryan_Seggerman",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1512.4
@@ -34191,7 +34191,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Saba_Purtseladze",
+      "name": "Saba_Purtseladze",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1437.9
@@ -34273,7 +34273,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Samuel_Vincent_Ruggeri",
+      "name": "Samuel_Vincent_Ruggeri",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1525.8
@@ -34355,7 +34355,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sandro_Kopp",
+      "name": "Sandro_Kopp",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1492.6
@@ -34437,7 +34437,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Santiago_Fa_Rodriguez_Taverna",
+      "name": "Santiago_Fa_Rodriguez_Taverna",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1672.6
@@ -34507,7 +34507,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sascha_Gueymard_Wayenburg",
+      "name": "Sascha_Gueymard_Wayenburg",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1563.9
@@ -34589,7 +34589,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sasi_Kumar_Mukund",
+      "name": "Sasi_Kumar_Mukund",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1498.8
@@ -34659,7 +34659,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sebastian_Baez",
+      "name": "Sebastian_Baez",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1941.4
@@ -34741,7 +34741,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sebastian_Fanselow",
+      "name": "Sebastian_Fanselow",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1540.8
@@ -34811,7 +34811,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sebastian_Korda",
+      "name": "Sebastian_Korda",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2020.7
@@ -34893,7 +34893,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sebastian_Ofner",
+      "name": "Sebastian_Ofner",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1812.7
@@ -34975,7 +34975,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Seong_Chan_Hong",
+      "name": "Seong_Chan_Hong",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1613.7
@@ -35057,7 +35057,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Shintaro_Mochizuki",
+      "name": "Shintaro_Mochizuki",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1625.3
@@ -35139,7 +35139,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sho_Shimabukuro",
+      "name": "Sho_Shimabukuro",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1692.5
@@ -35221,7 +35221,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Soon_Woo_Kwon",
+      "name": "Soon_Woo_Kwon",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1830.7
@@ -35273,7 +35273,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stan_Wawrinka",
+      "name": "Stan_Wawrinka",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2145.5
@@ -35355,7 +35355,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stefan_Kozlov",
+      "name": "Stefan_Kozlov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1724.4
@@ -35437,7 +35437,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stefano_Napolitano",
+      "name": "Stefano_Napolitano",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1662.1
@@ -35519,7 +35519,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stefano_Travaglia",
+      "name": "Stefano_Travaglia",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1793.8
@@ -35601,7 +35601,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stefanos_Sakellaridis",
+      "name": "Stefanos_Sakellaridis",
       "fields": {
         "atp_id": {
           "stringValue": "S0KT"
@@ -35629,7 +35629,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stefanos_Tsitsipas",
+      "name": "Stefanos_Tsitsipas",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2145.1
@@ -35711,7 +35711,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Strong_Kirchheimer",
+      "name": "Strong_Kirchheimer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1390.2
@@ -35781,7 +35781,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Stuart_Parker",
+      "name": "Stuart_Parker",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1524.1
@@ -35863,7 +35863,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Sumit_Nagal",
+      "name": "Sumit_Nagal",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1745.2
@@ -35945,7 +35945,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tallon_Griekspoor",
+      "name": "Tallon_Griekspoor",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1936.3
@@ -36027,7 +36027,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Taro_Daniel",
+      "name": "Taro_Daniel",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1766.8
@@ -36109,7 +36109,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Taylor_Fritz",
+      "name": "Taylor_Fritz",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2054
@@ -36191,7 +36191,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Terence_Atmane",
+      "name": "Terence_Atmane",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1707.1
@@ -36273,7 +36273,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Thai_Son_Kwiatkowski",
+      "name": "Thai_Son_Kwiatkowski",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1644
@@ -36343,7 +36343,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Thanasi_Kokkinakis",
+      "name": "Thanasi_Kokkinakis",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1890.3
@@ -36425,7 +36425,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Thiago_Agustin_Tirante",
+      "name": "Thiago_Agustin_Tirante",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1672.2
@@ -36507,7 +36507,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Thiago_Monteiro",
+      "name": "Thiago_Monteiro",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1748.2
@@ -36589,7 +36589,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Thiago_Seyboth_Wild",
+      "name": "Thiago_Seyboth_Wild",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1793.4
@@ -36671,7 +36671,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Timofey_Skatov",
+      "name": "Timofey_Skatov",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1672
@@ -36753,7 +36753,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Titouan_Droguet",
+      "name": "Titouan_Droguet",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1666.7
@@ -36835,7 +36835,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Toby_Alex_Kodat",
+      "name": "Toby_Alex_Kodat",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1535.4
@@ -36905,7 +36905,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tom_Paris",
+      "name": "Tom_Paris",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1404.4
@@ -36987,7 +36987,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tomas_Barrios_Vera",
+      "name": "Tomas_Barrios_Vera",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1710.3
@@ -37069,7 +37069,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tomas_Farjat",
+      "name": "Tomas_Farjat",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1344.4
@@ -37151,7 +37151,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tomas_Machac",
+      "name": "Tomas_Machac",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1972.7
@@ -37233,7 +37233,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tomas_Martin_Etcheverry",
+      "name": "Tomas_Martin_Etcheverry",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1871.7
@@ -37315,7 +37315,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tommy_Paul",
+      "name": "Tommy_Paul",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2008.2
@@ -37397,7 +37397,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tristan_Boyer",
+      "name": "Tristan_Boyer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1753.1
@@ -37479,7 +37479,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tristan_Lamasine",
+      "name": "Tristan_Lamasine",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1641.8
@@ -37549,7 +37549,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tristan_Schoolkate",
+      "name": "Tristan_Schoolkate",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1680.4
@@ -37631,7 +37631,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tung_Lin_Wu",
+      "name": "Tung_Lin_Wu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1605
@@ -37713,7 +37713,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Tyler_Zink",
+      "name": "Tyler_Zink",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1379.8
@@ -37795,7 +37795,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ugo_Blanchet",
+      "name": "Ugo_Blanchet",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1659.4
@@ -37877,7 +37877,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Ugo_Humbert",
+      "name": "Ugo_Humbert",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 2017.7
@@ -37959,7 +37959,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Vadym_Ursu",
+      "name": "Vadym_Ursu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1255.5
@@ -38041,7 +38041,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Valentin_Royer",
+      "name": "Valentin_Royer",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1715
@@ -38123,7 +38123,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Valentin_Vacherot",
+      "name": "Valentin_Vacherot",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1740.8
@@ -38205,7 +38205,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Valerio_Aboian",
+      "name": "Valerio_Aboian",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1355.1
@@ -38287,7 +38287,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Viktor_Durasovic",
+      "name": "Viktor_Durasovic",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1494.2
@@ -38369,7 +38369,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Vilius_Gaubas",
+      "name": "Vilius_Gaubas",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1655
@@ -38451,7 +38451,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Vit_Kopriva",
+      "name": "Vit_Kopriva",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1722.9
@@ -38533,7 +38533,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Vitaliy_Sachko",
+      "name": "Vitaliy_Sachko",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1643.5
@@ -38615,7 +38615,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yan_Bai",
+      "name": "Yan_Bai",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1494.4
@@ -38697,7 +38697,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yanki_Erel",
+      "name": "Yanki_Erel",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1467.9
@@ -38749,7 +38749,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yannick_Hanfmann",
+      "name": "Yannick_Hanfmann",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1843.4
@@ -38831,7 +38831,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yasutaka_Uchiyama",
+      "name": "Yasutaka_Uchiyama",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1727.5
@@ -38913,7 +38913,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yi_Zhou",
+      "name": "Yi_Zhou",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1365.8
@@ -38995,7 +38995,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yibing_Wu",
+      "name": "Yibing_Wu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1882.9
@@ -39077,7 +39077,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yoshihito_Nishioka",
+      "name": "Yoshihito_Nishioka",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1884.7
@@ -39159,7 +39159,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yosuke_Watanuki",
+      "name": "Yosuke_Watanuki",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1798.2
@@ -39241,7 +39241,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yu_Hsiou_Hsu",
+      "name": "Yu_Hsiou_Hsu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1648
@@ -39323,7 +39323,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yusuke_Takahashi",
+      "name": "Yusuke_Takahashi",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1451.5
@@ -39405,7 +39405,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Yuta_Shimizu",
+      "name": "Yuta_Shimizu",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1590.8
@@ -39487,7 +39487,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Zachary_Svajda",
+      "name": "Zachary_Svajda",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1769
@@ -39569,7 +39569,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Zhizhen_Zhang",
+      "name": "Zhizhen_Zhang",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1830.9
@@ -39651,7 +39651,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Zizou_Bergs",
+      "name": "Zizou_Bergs",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1859.2
@@ -39733,7 +39733,7 @@
   },
   {
     "document": {
-      "name": "projects/tennis-odds-analyzer/databases/(default)/documents/elo_ratings/Zsombor_Piros",
+      "name": "Zsombor_Piros",
       "fields": {
         "Peak_Elo": {
           "doubleValue": 1731
